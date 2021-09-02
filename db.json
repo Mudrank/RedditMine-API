@@ -1,23 +1,6 @@
 {
   "memes": [
-    {
-      "postLink": "https://redd.it/pgbsbs",
-      "subreddit": "dankmemes",
-      "title": "Bringing you the latest greatest mix of songs!",
-      "url": "https://i.imgur.com/zgG0ZXd.jpg",
-      "nsfw": false,
-      "spoiler": false,
-      "author": "Jippoma",
-      "ups": 192,
-      "preview": [
-        "https://external-preview.redd.it/o4ozPttdtZD6icZRyWZqETYf6doOHQlRKSWBBxiaBhE.jpg?width=108&crop=smart&auto=webp&s=c3f16f410b12132b06b340b0cc445c9c12a67019",
-        "https://external-preview.redd.it/o4ozPttdtZD6icZRyWZqETYf6doOHQlRKSWBBxiaBhE.jpg?width=216&crop=smart&auto=webp&s=1570a15ea834c4934a6cd9606eb5c4ef14d614ab",
-        "https://external-preview.redd.it/o4ozPttdtZD6icZRyWZqETYf6doOHQlRKSWBBxiaBhE.jpg?width=320&crop=smart&auto=webp&s=c7514af642036af398a57f3e31319031d056e671",
-        "https://external-preview.redd.it/o4ozPttdtZD6icZRyWZqETYf6doOHQlRKSWBBxiaBhE.jpg?width=640&crop=smart&auto=webp&s=f5893e78ed837bdd02812000e15f798fb29b1c1e",
-        "https://external-preview.redd.it/o4ozPttdtZD6icZRyWZqETYf6doOHQlRKSWBBxiaBhE.jpg?width=960&crop=smart&auto=webp&s=ec48a92717d6d49b5e6974eb04a99d243c0f8e2b",
-        "https://external-preview.redd.it/o4ozPttdtZD6icZRyWZqETYf6doOHQlRKSWBBxiaBhE.jpg?width=1080&crop=smart&auto=webp&s=bb6dd37596042c865ab9b0fa7e06966dca25ad5a"
-      ]
-    },
+  
     {
       "postLink": "https://redd.it/pgd3d2",
       "subreddit": "dankmemes",
